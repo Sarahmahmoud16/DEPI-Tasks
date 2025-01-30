@@ -1,0 +1,14 @@
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\bin\Debug\net8.0\LINQ-Task-Solution.exe
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\bin\Debug\net8.0\LINQ-Task-Solution.deps.json
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\bin\Debug\net8.0\LINQ-Task-Solution.runtimeconfig.json
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\bin\Debug\net8.0\LINQ-Task-Solution.dll
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\bin\Debug\net8.0\LINQ-Task-Solution.pdb
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.AssemblyInfoInputs.cache
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.AssemblyInfo.cs
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.csproj.CoreCompileInputs.cache
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.dll
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\refint\LINQ-Task-Solution.dll
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.pdb
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\LINQ-Task-Solution.genruntimeconfig.cache
+D:\DEPI\LINQ-DEPI\LINQ-Task\LINQ-Task-Solution\LINQ-Task-Solution\obj\Debug\net8.0\ref\LINQ-Task-Solution.dll
