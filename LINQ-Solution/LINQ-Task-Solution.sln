@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Task-Solution", "LINQ-Task-Solution\LINQ-Task-Solution.csproj", "{6BFB1ED1-5203-406F-881E-6B6D2681365E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ-Task-Solution", "LINQ-Task-Solution\LINQ-Task-Solution.csproj", "{6BFB1ED1-5203-406F-881E-6B6D2681365E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restriction-Operator-Linq", "Restriction-Operator-Linq\Restriction-Operator-Linq.csproj", "{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restriction-Operator-Linq", "Restriction-Operator-Linq\Restriction-Operator-Linq.csproj", "{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingOperators-Linq", "SortingOperators-Linq\SortingOperators-Linq.csproj", "{D61BAF69-13A2-4946-9959-214DE79A4946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingOperators-Linq", "SortingOperators-Linq\SortingOperators-Linq.csproj", "{D61BAF69-13A2-4946-9959-214DE79A4946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperator-Linq", "ElementOperator-Linq\ElementOperator-Linq.csproj", "{6DEC38AD-800C-4726-A75E-829DF5F89B03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElementOperator-Linq", "ElementOperator-Linq\ElementOperator-Linq.csproj", "{6DEC38AD-800C-4726-A75E-829DF5F89B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggreagateOperators", "AggreagateOperators\AggreagateOperators.csproj", "{ECE93930-FFF6-4B54-8861-49B5C78C667B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AggreagateOperators", "AggreagateOperators\AggreagateOperators.csproj", "{ECE93930-FFF6-4B54-8861-49B5C78C667B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partitioning-Operator", "Partitioning-Operator\Partitioning-Operator.csproj", "{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{ECE93930-FFF6-4B54-8861-49B5C78C667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE93930-FFF6-4B54-8861-49B5C78C667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE93930-FFF6-4B54-8861-49B5C78C667B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

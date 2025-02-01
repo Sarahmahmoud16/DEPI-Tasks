@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj",
+      "projectUniqueName": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj",
       "projectName": "LINQ-Task-Solution",
-      "projectPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj",
+      "projectPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj",
       "packagesPath": "C:\\Users\\sara mahmoud\\.nuget\\packages\\",
-      "outputPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\obj\\",
+      "outputPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sara mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",

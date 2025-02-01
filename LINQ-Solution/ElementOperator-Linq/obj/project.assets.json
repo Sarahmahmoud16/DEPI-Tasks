@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\ElementOperator-Linq\\ElementOperator-Linq.csproj",
+      "projectUniqueName": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\ElementOperator-Linq\\ElementOperator-Linq.csproj",
       "projectName": "ElementOperator-Linq",
-      "projectPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\ElementOperator-Linq\\ElementOperator-Linq.csproj",
+      "projectPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\ElementOperator-Linq\\ElementOperator-Linq.csproj",
       "packagesPath": "C:\\Users\\sara mahmoud\\.nuget\\packages\\",
-      "outputPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\ElementOperator-Linq\\obj\\",
+      "outputPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\ElementOperator-Linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sara mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj": {
-              "projectPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj"
+            "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj": {
+              "projectPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\LINQ-Task-Solution.csproj"
             }
           }
         }

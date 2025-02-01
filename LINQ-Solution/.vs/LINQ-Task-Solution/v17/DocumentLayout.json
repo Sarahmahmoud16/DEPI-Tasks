@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\",
+  "WorkspaceRootPath": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECE93930-FFF6-4B54-8861-49B5C78C667B}|AggreagateOperators\\AggreagateOperators.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\aggreagateoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE93930-FFF6-4B54-8861-49B5C78C667B}|AggreagateOperators\\AggreagateOperators.csproj|solutionrelative:aggreagateoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}|Partitioning-Operator\\Partitioning-Operator.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\partitioning-operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCD35F3-9B1C-4F68-9617-5D4EB7658125}|Partitioning-Operator\\Partitioning-Operator.csproj|solutionrelative:partitioning-operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DEC38AD-800C-4726-A75E-829DF5F89B03}|ElementOperator-Linq\\ElementOperator-Linq.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\elementoperator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DEC38AD-800C-4726-A75E-829DF5F89B03}|ElementOperator-Linq\\ElementOperator-Linq.csproj|solutionrelative:elementoperator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D61BAF69-13A2-4946-9959-214DE79A4946}|SortingOperators-Linq\\SortingOperators-Linq.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\sortingoperators-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D61BAF69-13A2-4946-9959-214DE79A4946}|SortingOperators-Linq\\SortingOperators-Linq.csproj|solutionrelative:sortingoperators-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\restriction-operator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|solutionrelative:restriction-operator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BFB1ED1-5203-406F-881E-6B6D2681365E}|LINQ-Task-Solution\\LINQ-Task-Solution.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\linq-task-solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BFB1ED1-5203-406F-881E-6B6D2681365E}|LINQ-Task-Solution\\LINQ-Task-Solution.csproj|solutionrelative:linq-task-solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BFB1ED1-5203-406F-881E-6B6D2681365E}|LINQ-Task-Solution\\LINQ-Task-Solution.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\linq-task-solution\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BFB1ED1-5203-406F-881E-6B6D2681365E}|LINQ-Task-Solution\\LINQ-Task-Solution.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\linq-task-solution\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BFB1ED1-5203-406F-881E-6B6D2681365E}|LINQ-Task-Solution\\LINQ-Task-Solution.csproj|solutionrelative:linq-task-solution\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|d:\\depi\\linq-depi\\linq-task\\linq-task-solution\\restriction-operator-linq\\restriction-operator-linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\restriction-operator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|solutionrelative:restriction-operator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE93930-FFF6-4B54-8861-49B5C78C667B}|AggreagateOperators\\AggreagateOperators.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\aggreagateoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE93930-FFF6-4B54-8861-49B5C78C667B}|AggreagateOperators\\AggreagateOperators.csproj|solutionrelative:aggreagateoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEC38AD-800C-4726-A75E-829DF5F89B03}|ElementOperator-Linq\\ElementOperator-Linq.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\elementoperator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEC38AD-800C-4726-A75E-829DF5F89B03}|ElementOperator-Linq\\ElementOperator-Linq.csproj|solutionrelative:elementoperator-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61BAF69-13A2-4946-9959-214DE79A4946}|SortingOperators-Linq\\SortingOperators-Linq.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\sortingoperators-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61BAF69-13A2-4946-9959-214DE79A4946}|SortingOperators-Linq\\SortingOperators-Linq.csproj|solutionrelative:sortingoperators-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|d:\\depi\\linq-depi\\linq-git\\depi-tasks\\linq-task-solution\\depi-tasks\\linq-solution\\restriction-operator-linq\\restriction-operator-linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E4FF6D16-75AF-45AD-B14C-C15513EE31CE}|Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj|solutionrelative:restriction-operator-linq\\restriction-operator-linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +46,90 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "LINQ-Task-Solution\\ListGenerators.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\LINQ-Task-Solution\\ListGenerators.cs",
+              "RelativeToolTip": "LINQ-Task-Solution\\ListGenerators.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:55:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\AggreagateOperators\\Program.cs",
-              "RelativeDocumentMoniker": "AggreagateOperators\\Program.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\AggreagateOperators\\Program.cs",
-              "RelativeToolTip": "AggreagateOperators\\Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAD4v0EAAAAuAAAA",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Partitioning-Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Partitioning-Operator\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Partitioning-Operator\\Program.cs",
+              "RelativeToolTip": "Partitioning-Operator\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:30:01.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\ElementOperator-Linq\\Program.cs",
-              "RelativeDocumentMoniker": "ElementOperator-Linq\\Program.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\ElementOperator-Linq\\Program.cs",
-              "RelativeToolTip": "ElementOperator-Linq\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:19:13.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListGenerators.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\ListGenerators.cs",
-              "RelativeDocumentMoniker": "LINQ-Task-Solution\\ListGenerators.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\ListGenerators.cs",
-              "RelativeToolTip": "LINQ-Task-Solution\\ListGenerators.cs",
-              "ViewState": "AQIAANYAAAAAAAAAAAAqwEYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:16:11.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\SortingOperators-Linq\\Program.cs",
-              "RelativeDocumentMoniker": "SortingOperators-Linq\\Program.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\SortingOperators-Linq\\Program.cs",
-              "RelativeToolTip": "SortingOperators-Linq\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:14:26.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Restriction-Operator-Linq",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
-              "RelativeDocumentMoniker": "Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
-              "RelativeToolTip": "Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-30T16:13:20.007Z",
+              "WhenOpened": "2025-01-31T23:27:06.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\Restriction-Operator-Linq\\Program.cs",
-              "RelativeDocumentMoniker": "Restriction-Operator-Linq\\Program.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\Restriction-Operator-Linq\\Program.cs",
-              "RelativeToolTip": "Restriction-Operator-Linq\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAgAAAA",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\AggreagateOperators\\Program.cs",
+              "RelativeDocumentMoniker": "AggreagateOperators\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\AggreagateOperators\\Program.cs",
+              "RelativeToolTip": "AggreagateOperators\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAD4v0EAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:11:05.857Z",
+              "WhenOpened": "2025-01-30T19:30:01.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ-Task-Solution\\Program.cs",
-              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\LINQ-Task\\LINQ-Task-Solution\\LINQ-Task-Solution\\Program.cs",
-              "RelativeToolTip": "LINQ-Task-Solution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\ElementOperator-Linq\\Program.cs",
+              "RelativeDocumentMoniker": "ElementOperator-Linq\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\ElementOperator-Linq\\Program.cs",
+              "RelativeToolTip": "ElementOperator-Linq\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:34:39.759Z",
+              "WhenOpened": "2025-01-30T16:19:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\SortingOperators-Linq\\Program.cs",
+              "RelativeDocumentMoniker": "SortingOperators-Linq\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\SortingOperators-Linq\\Program.cs",
+              "RelativeToolTip": "SortingOperators-Linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:14:26.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Restriction-Operator-Linq.csproj",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
+              "RelativeDocumentMoniker": "Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
+              "RelativeToolTip": "Restriction-Operator-Linq\\Restriction-Operator-Linq.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T16:13:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Restriction-Operator-Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Restriction-Operator-Linq\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LINQ-DEPI\\Linq-git\\DEPI-Tasks\\LINQ-Task-Solution\\DEPI-Tasks\\LINQ-Solution\\Restriction-Operator-Linq\\Program.cs",
+              "RelativeToolTip": "Restriction-Operator-Linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:11:05.857Z",
               "EditorCaption": ""
             }
           ]
