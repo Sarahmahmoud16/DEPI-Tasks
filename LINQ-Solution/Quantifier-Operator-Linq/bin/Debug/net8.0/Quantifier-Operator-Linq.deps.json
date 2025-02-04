@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quantifier-Operator-Linq/1.0.0": {
+        "dependencies": {
+          "LINQ-Task-Solution": "1.0.0"
+        },
+        "runtime": {
+          "Quantifier-Operator-Linq.dll": {}
+        }
+      },
+      "LINQ-Task-Solution/1.0.0": {
+        "runtime": {
+          "LINQ-Task-Solution.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quantifier-Operator-Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ-Task-Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
